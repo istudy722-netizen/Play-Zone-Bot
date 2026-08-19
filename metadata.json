@@ -1,0 +1,6 @@
+{
+  "name": "PlayZoneBot - Telegram Majburiy Obuna & O'yinlar Boti",
+  "description": "Telegram botlar uchun majburiy kanallarga obuna tizimi, to'liq ishchi Python (aiogram 3 / telebot) va Node.js kodlari, jonli Telegram simulyatori va o'yinlar paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
